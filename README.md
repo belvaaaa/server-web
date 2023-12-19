@@ -5,6 +5,11 @@ Final Project Os Server dan Sysadmin, saya berencana untuk membuat monitoring se
 - apache2
 - mariadb
 - php
-# Kendala Sementara
-- install php server monitoring
-- install git
+
+# Hasil Dari Yang Saja Kerjakan
+- Home
+  ![image](https://github.com/belvaaaa/server-web/assets/148633931/86f323ce-6629-4b1a-897c-e9d7bf3e203e)
+- Profil
+  ![image](https://github.com/belvaaaa/server-web/assets/148633931/3a5bd267-fcf0-42bd-a82b-4c50863ed07d)
+- Halaman Organisasi
+  ![image](https://github.com/belvaaaa/server-web/assets/148633931/ad5c87a3-35ef-4c4f-8587-bd85e3c096ce)
