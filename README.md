@@ -1,5 +1,5 @@
 # server-web
-Final Project Os Server dan Sysadmin, saya berencana untuk membuat monitoring server dengan ubuntu 20.04.lts
+Final Project Os Server dan Sysadmin, saya berencana untuk membuat Web server dengan ubuntu 20.04.lts
 # Service yang terinstall
 - ssh
 - apache2
