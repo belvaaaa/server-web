@@ -1,9 +1,9 @@
 # server-web
 Final Project Os Server dan Sysadmin, saya berencana untuk membuat monitoring server dengan ubuntu 20.04.lts
-# Service sementara yang terinstall
+# Service yang terinstall
 - ssh
 - apache2
-- mariadb
+- mysql
 - php
 
 # Hasil Dari Yang Saja Kerjakan
