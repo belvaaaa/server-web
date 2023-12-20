@@ -6,6 +6,10 @@ Final Project Os Server dan Sysadmin, saya berencana untuk membuat Web server de
 - mysql
 - php
 
+# Tools Yang Digunakan
+- VirtualBox
+- Visual Studio Code
+
 # Hasil Dari Yang Saja Kerjakan
 - Home
   ![image](https://github.com/belvaaaa/server-web/assets/148633931/86f323ce-6629-4b1a-897c-e9d7bf3e203e)
